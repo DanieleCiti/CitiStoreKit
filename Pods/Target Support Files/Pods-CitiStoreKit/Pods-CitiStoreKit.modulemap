@@ -1,0 +1,6 @@
+framework module Pods_CitiStoreKit {
+  umbrella header "Pods-CitiStoreKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
