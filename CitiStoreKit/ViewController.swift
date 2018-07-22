@@ -12,7 +12,7 @@ import UIKit
 
 class ViewController: UIViewController {
     
-    // 1) Decleare a variable of type CSKService
+    // 1) Declare a variable of type CSKService
     var inAppService: CSKService!
 
     override func viewDidLoad() {
