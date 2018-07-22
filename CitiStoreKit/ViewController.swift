@@ -20,7 +20,7 @@ class ViewController: UIViewController {
   
         // 2) Set the delegate and the shared secret properties.
         inAppService.delegate = self
-        inAppService.sharedSecret = "Your shared Secret. You can get in on iTunes Connect"
+        inAppService.sharedSecret = "Your shared Secret. You can get it on iTunes Connect"
     }
     
     // 3) Just call the functions you need.
